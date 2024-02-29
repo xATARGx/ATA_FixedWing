@@ -1,2 +1,2 @@
 # ATA_FixedWing
-Glider built by our team for wetland monitoring missions. 
+Plane built by our team for wetland monitoring missions. 
